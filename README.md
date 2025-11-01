@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm Akancha Rani!  
 
-<!--
-**AkanchaRani/AkanchaRani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Developer | Tech Explorer | Lifelong Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 🎓 I'm passionate about **coding**, **problem-solving**, and **building creative projects**.  
+- 💻 Currently learning **Web Development / C++ / SQL / Cloud Basics**.  
+- 🌱 I love exploring **AI tools** and how technology can make life easier.  
+- 🎯 My goal: *To grow as a full-stack developer and contribute to open-source.*
+
+---
+
+### 🛠️ Tech Stack
+💡 **Languages:** C++, Python, HTML, CSS, JavaScript  
+⚙️ **Tools:** Git, GitHub, VS Code, MySQL Server  
+🌩️ **Learning:** AWS, Azure, and Ethical Hacking Basics  
+
+---
+
+### 🌍 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/akancha-rani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:akancharani2@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkanchaRani&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+---
+
+### ✨ Quote of the Day
+> “Code is like humor. When you have to explain it, it’s bad.” 😄  
+
+---
+
+⭐ *Thanks for visiting my profile! Don’t forget to star my repositories if you like my work!*  
