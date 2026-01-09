@@ -13,9 +13,9 @@
 ---
 
 ### 🛠️ Tech Stack
-💡 **Languages:** C++, Python, HTML, CSS, JavaScript  
-⚙️ **Tools:** Git, GitHub, VS Code, MySQL Server  
-🌩️ **Learning:** AWS, Azure, and Ethical Hacking Basics  
+💡 **Languages:** C++, Python,Java, HTML, CSS, JavaScript  
+⚙️ **Tools:** Git, GitHub, VS Code, MySQL Server
+🌩️ **Learning:** AWS, Azure 
 
 ---
 
