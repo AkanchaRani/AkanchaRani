@@ -166,8 +166,8 @@ Security focused project built using **PHP**
 
 <p align="left">
 
-<a href="https://your-portfolio-link.com">
-<img src="https://akancharani.github.io/Portfolio/">
+<a href="https://akancharani.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
 </a>
 
 <a href="https://www.linkedin.com/in/akancha-rani/">
