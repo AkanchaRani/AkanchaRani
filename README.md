@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋 I'm a Full Stack Developer in Progress</h1>
 
 <p align="center">
+🌐 Portfolio: <a href="https://your-portfolio-link.com">Visit My Portfolio</a>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Aspiring+Full+Stack+Developer;DSA+Enthusiast+%7C+Problem+Solver;Building+Projects+and+Exploring+AI;Always+Learning+New+Technologies">
 </p>
 
@@ -156,6 +160,10 @@ Security focused project built using **PHP**
 # 🌍 Connect With Me
 
 <p align="left">
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+</a>
 
 <a href="https://www.linkedin.com/in/akancha-rani/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
