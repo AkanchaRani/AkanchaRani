@@ -137,18 +137,6 @@ Security focused project built using **PHP**
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AkanchaRani&show_icons=true&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanchaRani&layout=compact&theme=tokyonight">
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
