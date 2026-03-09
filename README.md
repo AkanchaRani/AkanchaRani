@@ -1,121 +1,136 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Akancha%20Rani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20MCA%20Student&descAlignY=55"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Akancha Rani</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects;Exploring+AI+and+Cloud+Technologies">
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AkanchaRani&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Akancha%20Rani&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Explorer&descAlignY=60"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👩‍💻 Hello World! I'm Akancha
 
-🎓 MCA Student passionate about **Software Development and Problem Solving**
+```cpp
+class Developer
+{
+public:
 
-💻 Currently learning
+string name = "Akancha Rani";
 
-• Advanced Data Structures & Algorithms
-• Backend Development
-• Cloud Technologies
+string role = "Aspiring Full Stack Developer";
 
-⚡ I enjoy **building real-world projects that solve practical problems**
+string university = "Lovely Professional University";
 
-🌱 Always learning and improving my skills.
+vector<string> skills =
+{
+"C++",
+"Java",
+"Python",
+"HTML",
+"CSS",
+"JavaScript",
+"PHP",
+"MySQL"
+};
 
----
+void currentFocus()
+{
+cout << "Building real world projects + mastering DSA";
+}
 
-# 🛠 Tech Stack
-
-### Programming Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-
-### Web Development
-
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+};
+```
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 What I Do
 
-## 💰 SpendWise
+💡 Build **real-world software projects**
 
-Smart **expense tracking system** built with PHP and MySQL for managing personal finances.
+⚡ Practice **Data Structures and Algorithms**
 
-🔗 https://github.com/AkanchaRani/SpendWise
+🌐 Explore **Web Development**
 
----
+☁️ Learning **Cloud Technologies**
 
-## 📱 ARPhoneBook
-
-Full-stack **Contact Management System** using Node.js and MySQL.
-
-🔗 https://github.com/AkanchaRani/ARPhoneBook
+🎯 Goal → Become a **strong Full Stack Developer**
 
 ---
 
-## 🍽 BillMeUp
-
-Java based **restaurant billing system** with automated invoice generation.
-
-🔗 https://github.com/AkanchaRani/billmeup
-
----
-
-## 🚗 Car Rental Management System
-
-C++ project using **OOPS and File Handling** for managing car bookings.
-
-🔗 https://github.com/AkanchaRani/car-rental-cpp-project
-
----
-
-## 🔐 Cyber Attack Analyzer
-
-Security project built using PHP to analyze network threats.
-
-🔗 https://github.com/AkanchaRani/cyber-attack-analyzer
-
----
-
-# 📊 GitHub Stats
+# 🧠 Tech Arsenal
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkanchaRani&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanchaRani&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,php,mysql,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🧩 My Projects
+
+### 💰 SpendWise
+
+Smart **expense tracking system**
+
+• PHP + MySQL
+• Income & expense tracking
+• Financial analysis
+
+🔗 github.com/AkanchaRani/SpendWise
+
+---
+
+### 📱 ARPhoneBook
+
+Full stack **Contact Management System**
+
+• Node.js + MySQL
+• CRUD operations
+• Authentication system
+
+🔗 github.com/AkanchaRani/ARPhoneBook
+
+---
+
+### 🍽 BillMeUp
+
+Java **restaurant billing system**
+
+• Invoice automation
+• Quantity tracking
+• Tax calculation
+
+🔗 github.com/AkanchaRani/billmeup
+
+---
+
+### 🚗 Car Rental System
+
+C++ **OOPS based management system**
+
+• Booking system
+• Customer management
+• File handling
+
+🔗 github.com/AkanchaRani/car-rental-cpp-project
+
+---
+
+# 📊 Dev Dashboard
 
 <p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkanchaRani&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanchaRani&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Coding Streak
+
+<p align="center">
+
 <img src="https://streak-stats.demolab.com/?user=AkanchaRani&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -123,39 +138,33 @@ Security project built using PHP to analyze network threats.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkanchaRani&theme=react-dark"/>
-</p>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkanchaRani&theme=tokyo-night"/>
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AkanchaRani&theme=algolia"/>
 </p>
 
 ---
 
 # 🌍 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/akancha-rani/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:akancharani2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Developer Quote
+# 💭 Dev Thought
 
-> “First solve the problem, then write the code.”
+> “Code is not just syntax — it is a way of thinking.”
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+⭐ If you like my projects, feel free to star them.
