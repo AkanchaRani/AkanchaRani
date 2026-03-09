@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=200&section=header&text=Akancha%20Rani&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 
-<h1 align="center">Hi 👋, I'm Akancha Rani</h1>
+<h1 align="center">Hi 👋 I'm a Full Stack Developer in Progress</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Aspiring+Full+Stack+Developer;DSA+Enthusiast+%7C+Problem+Solver;Building+Projects+and+Exploring+AI;Always+Learning+New+Technologies">
