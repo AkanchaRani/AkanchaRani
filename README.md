@@ -1,191 +1,240 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=200&section=header&text=Akancha%20Rani&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+<div align="center">
 
-<h1 align="center">Hi 👋 I'm a Full Stack Developer in Progress</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=200&section=header&text=Akancha%20Rani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20MCA%20Student%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Aspiring+Full+Stack+Developer;DSA+Enthusiast+%7C+Problem+Solver;Building+Projects+and+Exploring+AI;Always+Learning+New+Technologies">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Solving+DSA+in+Java;Building+REST+APIs+with+Spring+Boot;Preparing+for+SDE+Placements;Always+Learning.+Always+Building." alt="Typing SVG" />
 
----
+<br/><br/>
 
-<p align="center">
-🌐 <b>Portfolio:</b> 
-<a href="https://akancharani.github.io/Portfolio/" target="_blank">
-Visit My Portfolio
-</a>
-</p>
+<a href="https://akancharani.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akancha-rani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:akancharani2@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+</div>
 
-# 🚀 About Me
+<br/>
 
-🎓 MCA Student passionate about **software development and problem solving**
+## 🎯 Current Focus
 
-💻 Currently focusing on
+<table>
+<tr>
+<td width="50%" valign="top">
 
-• Data Structures & Algorithms
-• Full Stack Development
-• Cloud Technologies
+**What I'm doing**
+- 🧩 Solving Data Structures & Algorithms in Java
+- 🎓 Preparing for Software Engineering Placements
+- 🌱 Learning Spring Boot Development
+- 🛠️ Building Real-World Projects
+- ☁️ Exploring Cloud Technologies
 
-🌱 I love building **real world projects that solve problems**
+</td>
+<td width="50%" valign="top">
 
-⚡ Fun fact: I believe **coding is creativity + logic combined**
+**2026 Goals**
+- 🔁 Restart DSA Journey
+- 📁 Build GitHub Portfolio
+- 🏢 Complete Internship Experience
+- ✅ Solve 100+ LeetCode Problems
+- 🍃 Master Spring Boot
+- 💻 Secure Java Developer Role
 
----
+</td>
+</tr>
+</table>
 
-# 🚀 What I Do
+<br/>
 
-💡 Build **real-world software projects**
+## 📊 Learning Progress
 
-⚡ Practice **Data Structures and Algorithms**
+<table>
+<tr><td width="240"><b>Java Fundamentals</b></td><td>
 
-🌐 Explore **Web Development**
+![](https://progress-bar.xyz/100/?width=400&color=22c55e)
 
-☁️ Learning **Cloud Technologies**
+</td></tr>
+<tr><td><b>Object-Oriented Programming</b></td><td>
 
-🎯 Goal → Become a **strong Full Stack Developer**
+![](https://progress-bar.xyz/80/?width=400&color=6366f1)
 
----
+</td></tr>
+<tr><td><b>Data Structures & Algorithms</b></td><td>
 
-# 🧠 Tech Arsenal
+![](https://progress-bar.xyz/60/?width=400&color=f59e0b)
 
-<p align="center">
+</td></tr>
+<tr><td><b>Collections Framework</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,php,mysql,git,github,vscode,vercel"/>
+![](https://progress-bar.xyz/50/?width=400&color=ec4899)
 
-</p>
+</td></tr>
+<tr><td><b>Spring Boot</b></td><td>
 
----
+![](https://progress-bar.xyz/20/?width=400&color=ef4444)
 
-# 🛠 Tech Stack
+</td></tr>
+<tr><td><b>System Design</b></td><td>
 
-### 👨‍💻 Languages
+![](https://progress-bar.xyz/0/?width=400&color=6b7280)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+</td></tr>
+</table>
 
-### 🌐 Web Development
+<br/>
 
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
+## 🧠 Tech Stack
 
-### ⚙ Tools
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+**Languages**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-# 🌟 Featured Projects
+**Development**
 
-### 📱 ARPhoneBook
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Full stack **Phonebook Management System**
+**Tools**
 
-✔ CRUD operations
-✔ Node.js + MySQL backend
-✔ Secure authentication
-✔ Modern responsive UI
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-🔗 https://github.com/AkanchaRani/ARPhoneBook
+**Currently Learning**
 
----
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20Fundamentals-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### 🍽 BillMeUp
+</div>
 
-Restaurant billing system built using **Java OOP**
+<br/>
 
-✔ Real time bill generation
-✔ Quantity tracking
-✔ Tax calculation
-✔ GUI based system
+## 📈 DSA Journey
 
-🔗 https://github.com/AkanchaRani/billmeup
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**Patterns Learned**
 
-### 🚗 Car Rental Management System
+![HashMap](https://img.shields.io/badge/-HashMap-6366F1?style=flat-square)
+![HashSet](https://img.shields.io/badge/-HashSet-6366F1?style=flat-square)
+![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-EC4899?style=flat-square)
+![XOR](https://img.shields.io/badge/-XOR-EC4899?style=flat-square)
+![Moore Voting](https://img.shields.io/badge/-Moore%20Voting%20Algorithm-F59E0B?style=flat-square)
 
-C++ project using **OOPS + File Handling**
+**Topics Covered**
 
-✔ Car availability tracking
-✔ Booking system
-✔ Customer management
-✔ Billing module
+![Arrays](https://img.shields.io/badge/-Arrays-22C55E?style=flat-square)
+![Strings](https://img.shields.io/badge/-Strings-22C55E?style=flat-square)
+![Hashing](https://img.shields.io/badge/-Hashing-22C55E?style=flat-square)
+![Sorting](https://img.shields.io/badge/-Basic%20Sorting-22C55E?style=flat-square)
 
-🔗 https://github.com/AkanchaRani/car-rental-cpp-project
+</td>
+<td width="50%" valign="top">
 
----
+**🎯 Current Target**
 
-### 💰 SpendWise
+<br/>
 
-Personal **expense tracking system**
+<h3>100+ LeetCode Problems</h3>
 
-✔ PHP + MySQL backend
-✔ Income & expense tracking
-✔ Financial analytics
+![](https://progress-bar.xyz/0/?width=300&color=6366f1&title=Solved)
 
-🔗 https://github.com/AkanchaRani/SpendWise
+</td>
+</tr>
+</table>
 
----
+<br/>
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 Cyber Attack Analyzer
+Security-focused application for analyzing potential cyber threats and monitoring attack patterns.
 
-Security focused project built using **PHP**
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AkanchaRani/cyber-attack-analyzer)
 
-✔ Network threat analysis
-✔ Security monitoring tools
+</td>
+<td width="50%" valign="top">
 
-🔗 https://github.com/AkanchaRani/cyber-attack-analyzer
+### 📱 ARPhoneBook
+Full Stack Phonebook Management System with CRUD operations and database integration.
 
----
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AkanchaRani/ARPhoneBook)
 
-# 🔥 GitHub Streak
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=AkanchaRani&theme=tokyonight">
-</p>
+### 💰 SpendWise
+Expense Tracking System built using PHP and MySQL.
 
----
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AkanchaRani/SpendWise)
 
-# 📈 Contribution Graph
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkanchaRani&theme=tokyo-night">
-</p>
+### 🍽️ BillMeUp
+Java OOP-based Restaurant Billing System.
 
----
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AkanchaRani/billmeup)
 
-# 🌍 Connect With Me
+</td>
+</tr>
+</table>
 
-<p align="left">
+<br/>
 
-<a href="https://akancharani.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
-</a>
+## 💼 Experience
 
-<a href="https://www.linkedin.com/in/akancha-rani/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+**Research & Project Management Intern**
+- Conducting market and industry research
+- Stakeholder mapping and analysis
+- Business opportunity identification
+- Research documentation and reporting
 
-<a href="mailto:akancharani2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
+<br/>
 
-</p>
+## 📊 GitHub Statistics
 
----
+<div align="center">
 
-# 💡 Quote
+<img src="https://github-readme-stats.vercel.app/api?username=AkanchaRani&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=EC4899&icon_color=6366F1&text_color=ffffff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkanchaRani&theme=radical&hide_border=true&background=00000000&ring=6366F1&fire=EC4899" width="49%"/>
 
-> “Programs must be written for people to read.”
+<br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanchaRani&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=EC4899&text_color=ffffff" width="50%"/>
 
-⭐ If you like my projects, consider giving them a star!
+</div>
+
+<br/>
+
+## 💡 Developer Philosophy
+
+<div align="center">
+
+> "Consistency beats intensity. Small improvements every day lead to big results."
+
+⭐ **Always learning. Always building.** ⭐
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer" width="100%"/>
+
+</div>
