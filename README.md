@@ -26,9 +26,6 @@ Building scalable backend applications with Java, Spring Boot, REST APIs, and My
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/akanchabhardwaj1">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
 
 </p>
 
