@@ -202,12 +202,6 @@ Topics covered
 
 - HashSet
 
-- Trees
-
-- Graphs
-
-- Dynamic Programming
-
 ---
 
 ## 🔐 DetectYourData
@@ -275,12 +269,12 @@ Simplilearn
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=AkanchaRani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkanchaRani&show_icons=true&theme=tokyonight"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanchaRani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkanchaRani&layout=compact&theme=tokyonight"
 />
 
 </p>
