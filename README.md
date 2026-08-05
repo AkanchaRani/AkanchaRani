@@ -1,191 +1,211 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=200&section=header&text=Akancha%20Rani&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+<div align="center">
 
-<h1 align="center">Hi 👋 I'm a Full Stack Developer in Progress</h1>
+# Hi, I'm Akancha Rani 👋
 
+### ☕ Aspiring Java Developer | Backend Developer | Software Engineer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Aspiring+Full+Stack+Developer;DSA+Enthusiast+%7C+Problem+Solver;Building+Projects+and+Exploring+AI;Always+Learning+New+Technologies">
+<p>
+Building scalable backend applications with Java & Spring Boot while mastering
+Data Structures and Algorithms.
 </p>
 
----
-
-<p align="center">
-🌐 <b>Portfolio:</b> 
-<a href="https://akancharani.github.io/Portfolio/" target="_blank">
-Visit My Portfolio
+<p>
+<a href="https://akancharani.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/akancha-rani/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:akancharani2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/AkanchaRani/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
 </p>
 
-
-# 🚀 About Me
-
-🎓 MCA Student passionate about **software development and problem solving**
-
-💻 Currently focusing on
-
-• Data Structures & Algorithms
-• Full Stack Development
-• Cloud Technologies
-
-🌱 I love building **real world projects that solve problems**
-
-⚡ Fun fact: I believe **coding is creativity + logic combined**
+</div>
 
 ---
 
-# 🚀 What I Do
+# 💫 About Me
 
-💡 Build **real-world software projects**
+🎓 MCA Student @ Lovely Professional University
 
-⚡ Practice **Data Structures and Algorithms**
+💻 Passionate about Java Backend Development
 
-🌐 Explore **Web Development**
+🚀 Building scalable backend applications using Spring Boot
 
-☁️ Learning **Cloud Technologies**
+🧠 Solving Data Structures & Algorithms regularly
 
-🎯 Goal → Become a **strong Full Stack Developer**
+🌱 Currently learning
 
----
+- Spring Security
+- JWT Authentication
+- REST API Best Practices
+- Microservices
+- System Design
 
-# 🧠 Tech Arsenal
+🎯 Goal
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,php,mysql,git,github,vscode,vercel"/>
-
-</p>
+Become a Software Engineer building reliable backend systems.
 
 ---
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Languages
+## Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-
-### 🌐 Web Development
-
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
-
-### ⚙ Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
-# 🌟 Featured Projects
+## Backend
 
-### 📱 ARPhoneBook
-
-Full stack **Phonebook Management System**
-
-✔ CRUD operations
-✔ Node.js + MySQL backend
-✔ Secure authentication
-✔ Modern responsive UI
-
-🔗 https://github.com/AkanchaRani/ARPhoneBook
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ---
 
-### 🍽 BillMeUp
+## Database
 
-Restaurant billing system built using **Java OOP**
-
-✔ Real time bill generation
-✔ Quantity tracking
-✔ Tax calculation
-✔ GUI based system
-
-🔗 https://github.com/AkanchaRani/billmeup
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🚗 Car Rental Management System
+## Tools
 
-C++ project using **OOPS + File Handling**
-
-✔ Car availability tracking
-✔ Booking system
-✔ Customer management
-✔ Billing module
-
-🔗 https://github.com/AkanchaRani/car-rental-cpp-project
+Git • GitHub • Maven • Postman • VS Code
 
 ---
 
-### 💰 SpendWise
+# 🚀 Featured Projects
 
-Personal **expense tracking system**
+## 📄 SmartDocAI
 
-✔ PHP + MySQL backend
-✔ Income & expense tracking
-✔ Financial analytics
+Technical Documentation Management System
 
-🔗 https://github.com/AkanchaRani/SpendWise
+✔ Spring Boot
 
----
+✔ REST APIs
 
-### 🔐 Cyber Attack Analyzer
+✔ Validation
 
-Security focused project built using **PHP**
+✔ MySQL
 
-✔ Network threat analysis
-✔ Security monitoring tools
-
-🔗 https://github.com/AkanchaRani/cyber-attack-analyzer
+✔ Clean Architecture
 
 ---
 
-# 🔥 GitHub Streak
+## 🏥 MedicVault
+
+Healthcare Management System
+
+✔ Core Java
+
+✔ OOP
+
+✔ Collections
+
+✔ File Handling
+
+---
+
+## 💻 Java LeetCode Journey
+
+Collection of optimized Java solutions
+
+✔ Clean Code
+
+✔ Time Complexity
+
+✔ Interview Preparation
+
+---
+
+## 🔐 DetectYourData
+
+Security-focused Web Application
+
+✔ SQL Injection Detection
+
+✔ XSS Detection
+
+✔ Brute Force Detection
+
+---
+
+# 📚 Current Focus
+
+```text
+☕ Core Java
+
+🍃 Spring Boot
+
+🔗 REST APIs
+
+🧠 Data Structures & Algorithms
+
+🗄 MySQL
+
+⚙ Maven
+
+🔒 Spring Security
+
+🧩 Backend Development
+```
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=AkanchaRani&theme=tokyonight">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkanchaRani&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanchaRani&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
-
-# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkanchaRani&theme=tokyo-night">
-</p>
 
----
-
-# 🌍 Connect With Me
-
-<p align="left">
-
-<a href="https://akancharani.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="https://www.linkedin.com/in/akancha-rani/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:akancharani2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
+<img src="https://streak-stats.demolab.com?user=AkanchaRani&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 🎯 2026 Goals
 
-> “Programs must be written for people to read.”
+✅ Master Spring Boot
+
+✅ Solve 300+ LeetCode Problems
+
+✅ Build Enterprise Java Projects
+
+✅ Learn Microservices
+
+✅ Crack Software Engineer Role
 
 ---
 
-⭐ If you like my projects, consider giving them a star!.....I want to make unique github profile dashboard
+# 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ them.
+
+</div>
