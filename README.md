@@ -1,86 +1,143 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Akancha Rani</h1>
 
-# Hi, I'm Akancha Rani 👋
+<h3 align="center">
+☕ Aspiring Java Developer | Backend Developer | Software Engineer
+</h3>
 
-### ☕ Aspiring Java Developer | Backend Developer | Software Engineer
-
-<p>
-Building scalable backend applications with Java & Spring Boot while mastering
-Data Structures and Algorithms.
+<p align="center">
+Building scalable backend applications with Java, Spring Boot, REST APIs, and MySQL while solving Data Structures & Algorithms.
 </p>
 
-<p>
+<p align="center">
+
 <a href="https://akancharani.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/akancha-rani/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:akancharani2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/AkanchaRani/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/akanchabhardwaj1">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
 
-</div>
+---
+
+# 👩‍💻 About Me
+
+🎓 MCA Student at **Lovely Professional University**
+
+💼 Former **Project Manager Intern** at **Helioustin**
+
+☕ Passionate about **Java Backend Development** and **Software Engineering**
+
+🚀 Building backend applications using **Java**, **Spring Boot**, **REST APIs**, and **MySQL**
+
+🧠 Solving **Data Structures & Algorithms** to strengthen problem-solving skills
+
+🌱 Continuously learning modern backend technologies and clean software architecture
+
+🎯 **Goal:** Become a Java Software Engineer building scalable and reliable applications.
 
 ---
 
-# 💫 About Me
+# 🌱 Currently Learning
 
-🎓 MCA Student @ Lovely Professional University
-
-💻 Passionate about Java Backend Development
-
-🚀 Building scalable backend applications using Spring Boot
-
-🧠 Solving Data Structures & Algorithms regularly
-
-🌱 Currently learning
-
+- Spring Boot
 - Spring Security
 - JWT Authentication
-- REST API Best Practices
-- Microservices
-- System Design
-
-🎯 Goal
-
-Become a Software Engineer building reliable backend systems.
+- REST API Development
+- Maven
+- MySQL
+- Data Structures & Algorithms
+- System Design Basics
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+## 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=java"/>
 
-## Backend
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=sql"/>
 
----
-
-## Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 
 ---
 
-## Tools
+## 🚀 Backend
 
-Git • GitHub • Maven • Postman • VS Code
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=maven"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🌐 Web
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 💡 Core Java Skills
+
+✔ Object-Oriented Programming
+
+✔ Collections Framework
+
+✔ Exception Handling
+
+✔ File Handling
+
+✔ JDBC
+
+✔ Multithreading (Learning)
+
+✔ Java 8 Features (Learning)
 
 ---
 
@@ -88,43 +145,71 @@ Git • GitHub • Maven • Postman • VS Code
 
 ## 📄 SmartDocAI
 
-Technical Documentation Management System
+### Technical Documentation Management System
 
-✔ Spring Boot
+**Tech Stack**
 
-✔ REST APIs
+- Spring Boot
+- Java
+- REST APIs
+- MySQL
+- Maven
 
-✔ Validation
+**Features**
 
-✔ MySQL
-
-✔ Clean Architecture
+- User Management
+- CRUD Operations
+- Input Validation
+- Clean Layered Architecture
+- Database Integration
 
 ---
 
 ## 🏥 MedicVault
 
-Healthcare Management System
+### Healthcare Record Management System
 
-✔ Core Java
+**Tech Stack**
 
-✔ OOP
+- Core Java
+- Collections Framework
+- File Handling
+- OOP
 
-✔ Collections
+**Features**
 
-✔ File Handling
+- Patient Management
+- Medicine Records
+- Prescription Tracking
+- Authentication Module
 
 ---
 
-## 💻 Java LeetCode Journey
+## 💻 Java-LeetCode-Journey
 
-Collection of optimized Java solutions
+A collection of optimized Java solutions for Data Structures & Algorithms.
 
-✔ Clean Code
+Topics covered
 
-✔ Time Complexity
+- Arrays
 
-✔ Interview Preparation
+- Strings
+
+- Linked List
+
+- Stack
+
+- Queue
+
+- HashMap
+
+- HashSet
+
+- Trees
+
+- Graphs
+
+- Dynamic Programming
 
 ---
 
@@ -132,43 +217,67 @@ Collection of optimized Java solutions
 
 Security-focused Web Application
 
-✔ SQL Injection Detection
+Features
 
-✔ XSS Detection
+- SQL Injection Detection
 
-✔ Brute Force Detection
+- XSS Detection
 
----
+- Brute Force Detection
 
-# 📚 Current Focus
-
-```text
-☕ Core Java
-
-🍃 Spring Boot
-
-🔗 REST APIs
-
-🧠 Data Structures & Algorithms
-
-🗄 MySQL
-
-⚙ Maven
-
-🔒 Spring Security
-
-🧩 Backend Development
-```
+- Secure Event Logging
 
 ---
 
-# 📈 GitHub Stats
+# 💼 Experience
+
+## Project Manager Intern
+
+**Helioustin**
+
+**June 2026 – August 2026**
+
+- Conducted market research and company profiling.
+- Performed stakeholder mapping and business analysis.
+- Prepared Daily Progress Reports (DPRs).
+- Maintained lead databases and research documentation.
+- Collaborated with cross-functional teams.
+
+---
+
+# 🎓 Education
+
+## Lovely Professional University
+
+Master of Computer Applications (MCA)
+
+CGPA: **8.87**
+
+---
+
+# 📜 Certifications
+
+🏅 Software Engineering & Agile Development
+
+Infosys Springboard
+
+🏅 DSA with Java
+
+Apna College
+
+🏅 Introduction to SQL
+
+Simplilearn
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkanchaRani&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkanchaRani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanchaRani&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanchaRani&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -176,7 +285,15 @@ Security-focused Web Application
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=AkanchaRani&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=AkanchaRani&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkanchaRani&theme=tokyo-night"/>
 
 </p>
 
@@ -186,26 +303,56 @@ Security-focused Web Application
 
 ✅ Master Spring Boot
 
-✅ Solve 300+ LeetCode Problems
+✅ Learn Spring Security
 
-✅ Build Enterprise Java Projects
+✅ Build Enterprise Backend Projects
+
+✅ Solve 300+ LeetCode Problems
 
 ✅ Learn Microservices
 
-✅ Crack Software Engineer Role
+✅ Crack a Java Software Engineer Role
 
 ---
 
-# 💬 Favorite Quote
+# 📫 Connect With Me
 
-> "First, solve the problem. Then, write the code."
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akancha-rani/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://akancharani.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:akancharani2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/AkanchaRani/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/akanchabhardwaj1">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thank you for visiting my profile!
 
-If you like my projects, don't forget to ⭐ them.
+*"Code with consistency. Learn continuously. Build with purpose."*
 
 </div>
